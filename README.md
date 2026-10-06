@@ -1,2 +1,2 @@
 # everealmconfigurator
-personal made map maker
+map maker made for personal use
